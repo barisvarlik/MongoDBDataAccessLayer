@@ -1,6 +1,6 @@
 # MongoDBDataAccessLayer
 
-A generic data access layer written in C# to reference in other projects. 
+A generic data access layer for MongoDB written in C# to reference in other projects. 
 Dependencies: 
 * MongoDB.Driver
 * Microsoft.Extensions.Options
